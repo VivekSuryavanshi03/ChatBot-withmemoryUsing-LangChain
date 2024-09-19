@@ -25,5 +25,36 @@ Before running this project, make sure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/langchain-chatbot-memory.git
+   [git clone https://github.com/yourusername/langchain-chatbot-memory.git](https://github.com/VivekSuryavanshi03/ChatBot-withmemoryUsing-LangChain.git)
    cd langchain-chatbot-memory
+
+2. Install all dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+3. Usage ( Run the ChatBot) :
+   ```bash
+   python app.py
+4. Project Structure :
+   ```bash
+   ├── app.py                 # Main application script
+   ├── config.py              # Configuration settings for the chatbot
+   ├── memory.py              # Logic for managing conversation memory
+   ├── requirements.txt       # List of required dependencies
+   └── README.md              # Project documentation
+
+## 
+Feel free to adjust any details to better fit your project’s specifics!
+
+## Contact
+
+For any questions, feedback, or further queries, please reach out:
+
+- **Email**: [vksuryasingh8057@gmail.com](mailto:your-email@example.com)
+- **GitHub Issues**: [Submit an issue](https://github.com/VivekSuryavanshi03/langchain-chatbot-memory/issues)
+
+Feel free to open issues or discussions if you encounter any problems or have suggestions for improvements.
+
+
+
+
