@@ -25,7 +25,7 @@ Before running this project, make sure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   [git clone https://github.com/yourusername/langchain-chatbot-memory.git](https://github.com/VivekSuryavanshi03/ChatBot-withmemoryUsing-LangChain.git)
+   https://github.com/VivekSuryavanshi03/ChatBot-withmemoryUsing-LangChain.git
    cd langchain-chatbot-memory
 
 2. Install all dependencies:
